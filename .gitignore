@@ -1,0 +1,69 @@
+### Python ###
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Cache and databases
+*.db
+*.sqlite
+.huggingface/
+.cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Streamlit specific
+.streamlit/
+
+# Large files
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks
+*.ipynb
+*.ipynb_checkpoints/
+
+# Test files
+tests/
+test_*.py
+
+# Python packaging
+*.manifest
+*.spec
+
+# Vector stores (if generated)
+faiss_index/

@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+streamlit
+python-dotenv
+requests
+beautifulsoup4
